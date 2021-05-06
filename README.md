@@ -31,6 +31,8 @@ Following functionalities are available:
    | pp.savi@gmail.com       |  xyza     |
    | aish.joe@gmail.com      |  1234     |
    | apu.srihari@gmail.com   |  1234     |
+   
+   
    ![3](https://user-images.githubusercontent.com/35360830/117250201-dfa87100-ae10-11eb-86f9-6a6d039396a4.PNG)
 
 3. **Doctor Login**
@@ -51,6 +53,8 @@ Following functionalities are available:
    | maria.hernandez@gmail.com|  cdef       |   Neurologist          | 
    | indra.chester@gmail.com  |  pax2       |   Pulmonologist        |
    | venky.kathy@gmail.com    |  a1b2       |   Allergist            |
+   
+   
    ![13](https://user-images.githubusercontent.com/35360830/117250786-b9cf9c00-ae11-11eb-9b81-02e3d0e7603c.PNG)
    
 4. **Patient Dashboard**:

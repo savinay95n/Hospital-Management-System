@@ -35,21 +35,22 @@ Following functionalities are available:
 
 3. **Doctor Login**
    Only the administration has the ability to add and remove doctors in our system. There is one doctor per specialization in our            hospital. There are 14 specializations in total. For testing purposes, we provide the following credentials of our Doctors:
-   email                      password      specialization
-   prema.mohan@gmail.com      c3d4          Pediatrician
-   willy.wonka@gmail.com      8792          General Physician
-   nag.suma@gmail.com         y1z2          Dermatologist
-   suma.nagesh@gmail.com      2345          Orthodontist
-   nat.vat@gmail.com          12@*          Opthalmologist
-   james.smith@gmail.com      a234          Gynecologist
-   smith.robert@gmail.com     3124          Cardiologist
-   maria.gracia@gmail.com     4939          Endocrinologist
-   david.smith@gmail.com      1249          Gastroenterologist
-   maria.rod@gmail.com        xyz1          Urologist
-   mary.joe@gmail.com         2789          Orthopedist
-   maria.hernandez@gmail.com  cdef          Neurologist
-   indra.chester@gmail.com    pax2          Pulmonologist
-   venky.kathy@gmail.com      a1b2          Allergist
+   | email                    |  password   |   specialization       |
+   |--------------------------|-------------|------------------------|
+   | prema.mohan@gmail.com    |  c3d4       |   Pediatrician         |
+   | willy.wonka@gmail.com    |  8792       |   General Physician    |
+   | nag.suma@gmail.com       |  y1z2       |   Dermatologist        |
+   | suma.nagesh@gmail.com    |  2345       |   Orthodontist         | 
+   | nat.vat@gmail.com        |  12@*       |   Opthalmologist       |
+   | james.smith@gmail.com    |  a234       |   Gynecologist         | 
+   | smith.robert@gmail.com   |  3124       |   Cardiologist         |
+   | maria.gracia@gmail.com   |  4939       |   Endocrinologist      | 
+   | david.smith@gmail.com    |  1249       |   Gastroenterologist   |
+   | maria.rod@gmail.com      |  xyz1       |   Urologist            |
+   | mary.joe@gmail.com       |  2789       |   Orthopedist          |
+   | maria.hernandez@gmail.com|  cdef       |   Neurologist          | 
+   | indra.chester@gmail.com  |  pax2       |   Pulmonologist        |
+   | venky.kathy@gmail.com    |  a1b2       |   Allergist            |
    ![13](https://user-images.githubusercontent.com/35360830/117250786-b9cf9c00-ae11-11eb-9b81-02e3d0e7603c.PNG)
    
 4. **Patient Dashboard**:

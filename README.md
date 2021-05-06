@@ -23,13 +23,14 @@ Following functionalities are available:
 2. **Patient Login**:
    After the patient registers, they can login using their credentials - email and password. 
    For testing purposes, we provide you with the following patient credentials for patient login:
-   email                     password
-   joe.watson@gmail.com      9876
-   sal.west@gmail.com        4939
-   sri.sub@gmail.com         abcd
-   pp.savi@gmail.com         xyza
-   aish.joe@gmail.com        1234
-   apu.srihari@gmail.com     1234
+   | email                   |  password |
+   --------------------------|------------
+   | joe.watson@gmail.com    |  9876     |
+   | sal.west@gmail.com      |  4939     |
+   | sri.sub@gmail.com       |  abcd     |
+   | pp.savi@gmail.com       |  xyza     |
+   | aish.joe@gmail.com      |  1234     |
+   | apu.srihari@gmail.com   |  1234     |
    ![3](https://user-images.githubusercontent.com/35360830/117250201-dfa87100-ae10-11eb-86f9-6a6d039396a4.PNG)
 
 3. **Doctor Login**
